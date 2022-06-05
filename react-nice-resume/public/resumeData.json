@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name":"Project Individu-JevonAP",
+    "description":"Ini merupakan projek individu yang saya buat dengan menggunakan template yang sudah disediakan",
+    "image":"foto-jepon.jpg",
+    "bio":" Hi there! 👋My name is Jevon, I'm frontend web developer based in Malang.I am passionate in design and technology.  I love to continue learning how to fuse the two together to create creative solutions.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jevonariel3000@gmail.com",
+    "phone": "0857-XXXX-XXXX",
+    "github":"https://github.com/Jevon-ap",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"Ciceri permai jl.nuantara a blok c no 3",
+      "city":"Serang",
+      "state":"Indonesia",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/jevon.arielputra.9",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jeppon-christian-74555b211/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/jevonarielputra/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"SMAN 1 Serang",
+        "degree":"Sekolah Dasar",
+        "graduated":"April 2017",
+        "description":"Disini saya belajar softskill seperti memimpin , bernegosiasi "
+      },
+      {
+        "school":"Universitas Brawijaya",
+        "degree":"S1",
+        "graduated":"March 2024",
+        "description":"Disini saya belajar berpikir komputasi serta kritis dan mendapatkan pendidikan dasar tentang koding"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UI/UX Design ",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"30%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ],
+     "interest":[
+      {
+        "hobby":"Ngoding",
+        "describe":"Sebagai mahasiswa IT ngoding adalah suatu rutinitas yang dilakuakan setiap minggu"
+      },
+      {
+        "hobby":"Bulutangkis",
+        "describe":"Sebagai Remaja saya suka menghabiskan waktu dengan bermain bulutangkis"
+      }
+    ],
+  "pengalaman_organisasi":[
+   {
+     "nama":"PMR",
+     "tanggal":"2017-2020",
+     "pangkat":"Anggota"
+   },
+   {
+    "nama":"Pramuka",
+    "tanggal":"2017-2019",
+    "pangkat":"Anggota"
+   }
+ ]
+    
+    
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Projek-Individu",
+        "category":"Projek yang sedang kalian lihat saat ini",
+        "image":"01.PNG",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Tugas-Akhir PemWeb",
+        "category":"projek yang saya kerjakan ketika kuliah",
+        "image":"02.PNG",
+        "url":"http://www.timbakerdev.com"
+      }
+     
+    ]
+  }
+  
+}
